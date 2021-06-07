@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AutoboxingUnboxing",
+            "request": "launch",
+            "mainClass": "AutoboxingUnboxing",
+            "projectName": "Section 8_b0a53a4b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Greet",
+            "request": "launch",
+            "mainClass": "Greet",
+            "projectName": "Section 8_b0a53a4b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CarChallenge<Section 8_b0a53a4b>",
+            "request": "launch",
+            "mainClass": "CarChallenge",
+            "projectName": "Section 8_b0a53a4b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DemoP<Section 8_b0a53a4b>",
+            "request": "launch",
+            "mainClass": "DemoP",
+            "projectName": "Section 8_b0a53a4b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Game<Section 8_b0a53a4b>",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "Section 8_b0a53a4b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-House<Section 8_b0a53a4b>",
+            "request": "launch",
+            "mainClass": "House",
+            "projectName": "Section 8_b0a53a4b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<Section 8_b0a53a4b>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Section 8_b0a53a4b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainHamburger<Section 8_b0a53a4b>",
+            "request": "launch",
+            "mainClass": "MainHamburger",
+            "projectName": "Section 8_b0a53a4b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainPrinter<Section 8_b0a53a4b>",
+            "request": "launch",
+            "mainClass": "MainPrinter",
+            "projectName": "Section 8_b0a53a4b"
+        }
+    ]
+}

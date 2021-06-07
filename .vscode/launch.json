@@ -1,0 +1,157 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo2",
+            "request": "launch",
+            "mainClass": "Demo2",
+            "projectName": "Java_c2d2f0da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo1",
+            "request": "launch",
+            "mainClass": "Demo1",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnemyDemo",
+            "request": "launch",
+            "mainClass": "EnemyDemo",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LogicalOp",
+            "request": "launch",
+            "mainClass": "LogicalOp",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IfThen",
+            "request": "launch",
+            "mainClass": "IfThen",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OperatorsExp",
+            "request": "launch",
+            "mainClass": "OperatorsExp",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OperatorExp",
+            "request": "launch",
+            "mainClass": "OperatorExp",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoString",
+            "request": "launch",
+            "mainClass": "DemoString",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DemoClass",
+            "request": "launch",
+            "mainClass": "DemoClass",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CharBoolean",
+            "request": "launch",
+            "mainClass": "CharBoolean",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PoundsToKg",
+            "request": "launch",
+            "mainClass": "PoundsToKg",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Float",
+            "request": "launch",
+            "mainClass": "Float",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Challege",
+            "request": "launch",
+            "mainClass": "Challege",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Java_64e5603d"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${file}"
+        }
+    ]
+}
